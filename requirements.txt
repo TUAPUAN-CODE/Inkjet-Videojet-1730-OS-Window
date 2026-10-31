@@ -1,0 +1,4 @@
+opencv-python-headless
+zxing-cpp
+numpy
+Pillow
